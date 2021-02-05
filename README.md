@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-This repository includes projects and coding assignment from my artificial intelligence course.
+This repository includes projects and coding assignments from my artificial intelligence course.
