@@ -1,5 +1,5 @@
 # Artificial-Intelligence
-This repository includes projects and coding assignments from my artificial intelligence course.
+This repository includes projects and coding assignments from my artificial intelligence course. (Course current in progress so more projects and code will be uploaded as they are completed).
 
 INCLUDES CODE FOR:
 
