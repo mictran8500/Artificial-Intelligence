@@ -2,4 +2,4 @@
 
 Solution to the 8-Queens problem using a Genetic Algorithm.
 
-README.md STILL IN PROGRESS
+README.md is still in progress.
